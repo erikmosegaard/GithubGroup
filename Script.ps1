@@ -1,6 +1,15 @@
 ﻿
 
 
+#vmLS3
+#Ins Root hoch.
+cd /root
+
+cd home/vmadmin
+
+#cd home/vmadmin/Backup-Restore/Marti_AG
+
+
 
 
 #vmLS3
@@ -122,7 +131,7 @@ To automate the the task you can add a new entry in root's crontab by the comman
 15 1 * * * /usr/local/bin/mybackup > /var/log/mybackup-cron.log 2>&1
 #>
 
-############################################Restore IDEA 1###########################################
+############################################    Restore IDEA 1         ###########################################
 
 <#
 Restoring from the Archive
