@@ -1,27 +1,20 @@
-﻿
+﻿#cd home/vmadmin/Backup-Restore/Marti_AG
 
 
-#vmLS3
+#vmLP1
 #Ins Root hoch.
 cd /root
-
 cd home/vmadmin
 
-#cd home/vmadmin/Backup-Restore/Marti_AG
-
-
-
-
-#vmLS3
 mkdir  Backup-Restore
 
-ls
 #Ausgabe
-#Backup-Restore
+ls #Backup-Restore
 
 cd Backup-Restore
 #Dir change
 
+#dir erstellen Marti_AG
 mkdir Marti_AG
 
 ls
@@ -57,6 +50,23 @@ user7
 user8
 user9
 #>
+
+
+#vmLS5
+cd /root
+
+cd home/vmadmin
+
+#dir erstellen Backup-Restore
+mkdir Backup-Restore
+
+#inhalte anzeigen
+ls
+
+#dir change
+cd Backup-Restore
+
+#
 
 
 
